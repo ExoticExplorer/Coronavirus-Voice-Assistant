@@ -1,6 +1,6 @@
 # Coronavirus-Voice-Assistant
 
-A python voice assistant that you can ask corona-virus related questions to Coronavirus
+A python voice assistant that you can ask questions related questions to Coronavirus
 
 
 PyAudio Download
